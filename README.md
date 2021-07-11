@@ -5,7 +5,7 @@ Ein einfaches aber nützliches Rechnerprogramm<br />
 # Installation
 ## <a href="https://debian.org/">Debian</a>/<a href="https://ubuntu.com/">Ubuntu</a> Linux
 <ol>
-  <li>downloade das Debian Packet <a href="">hier</a></li>
+  <li>downloade das Debian Packet <a href="https://github.com/mrehfeld-code/rechner/blob/main/rechner-linux-amd64.deb?raw=true">hier</a></li>
   <li>installiere es mit: <pre>sudo dpkg -i ~/Downloads/rechner-linux-amd64.deb</pre></li>
   <li>warte bis die Installation abgeschlossen ist<br />
     und führe das Programm aus, mit: <pre>rechner</pre></li>
